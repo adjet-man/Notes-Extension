@@ -1,0 +1,18 @@
+{
+    "manifest_version": 3,
+    "name": "Note Taker",
+    "version": "1.0",
+    "description": "A simple note-taking extension",
+    "permissions": ["storage"],
+    "icons": 
+    {
+     "16": "Logo/logo.png",
+     "48": "Logo/logo.png",
+     "128": "Logo/logo.png",
+     "300": "Logo/logo.png"
+    },
+    "action": {
+      "default_popup": "popup.html"
+    }
+  }
+  
